@@ -8,37 +8,37 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.idealcasa"
         }
     }
 }
